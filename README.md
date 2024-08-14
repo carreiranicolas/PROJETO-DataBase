@@ -7,7 +7,7 @@
 
 Projeto desenvolvido com o propósito de me apresentar e destacar minhas habilidades e projetos.
 
-## 📚 Alguns conceitos aplicados
+## 📚 Conceitos utilizados
 
 Neste projeto apliquei os seguintes pontos:
 + Semântica HTML;
