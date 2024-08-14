@@ -25,9 +25,9 @@ Neste projeto apliquei os seguintes pontos:
 
 ## Estrutura do projeto
 
-/sql/ - Scripts SQL para criar e popular o banco de dados.
-/docs/ - Documentação adicional, como diagramas ER ou anotações.
-README.md - Este arquivo, que explica o projeto.
+- /sql/ - Scripts SQL para criar e popular o banco de dados.
+- /docs/ - Documentação adicional, como diagramas ER ou anotações.
+- README.md - Este arquivo, que explica o projeto.
 
 ## Instruções para executar
 
