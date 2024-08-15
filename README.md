@@ -29,14 +29,14 @@ Neste projeto apliquei os seguintes pontos:
 - /docs/ - Documentação adicional, como diagramas ER ou anotações.
 - README.md - Este arquivo, que explica o projeto.
 
-## Instruções para executar
+## 📜 Instruções para executar
 
 Forneça instruções simples para clonar o repositório e executar os scripts SQL, se necessário:
 Como instalar MySQL.
 Como importar os scripts e visualizar o banco de dados.
 Inclua qualquer consideração sobre o ambiente necessário.
 
-## Considerações finais
+## 🏁 Considerações finais
 
 Use essa seção para refletir sobre o aprendizado adquirido com o projeto, mencionando o que você mais gostou ou quais desafios enfrentou.
 Incentive outros a explorar o repositório e usá-lo como referência para seus próprios estudos.
