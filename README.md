@@ -14,7 +14,7 @@ Neste projeto apliquei os seguintes pontos:
 + Pontos de acessibilidade;
 + Responsividade;
 
-## ⚙ Ferramentas utilizadas: 
+## 🛠 Ferramentas utilizadas: 
 
 - **Home:** Uma breve introdução;
 - **Sobre mim:** Falo um pouco sobre quem sou, meus hobbies, minha trajetória, minhas experiências e minhas ambições;
@@ -23,7 +23,7 @@ Neste projeto apliquei os seguintes pontos:
 - **Fale comigo:** As diferentes formas de entrar em contato comigo;
 - **Redes:** Links para minhas redes sociais, disponíveis no menu de navegação e no rodapé do site.
 
-## Estrutura do projeto
+## ⚙ Estrutura do projeto
 
 - /sql/ - Scripts SQL para criar e popular o banco de dados.
 - /docs/ - Documentação adicional, como diagramas ER ou anotações.
