@@ -16,7 +16,7 @@ Neste projeto apliquei os seguintes pontos:
 
 ## 🛠 Ferramentas utilizadas: 
 
-- **Home:** Uma breve introdução;
+- **Google Docs:** Uma breve introdução;
 - **Sobre mim:** Falo um pouco sobre quem sou, meus hobbies, minha trajetória, minhas experiências e minhas ambições;
 - **Conhecimentos:** As tecnologias que tenho conhecimento;
 - **Projetos:** Exemplos de projetos recentes que desenvolvi;
