@@ -10,9 +10,9 @@ Este projeto foi criado com o objetivo de aplicar e consolidar meus conhecimento
 ## 📚 Conceitos e Técnicas aplicadas
 
 Neste projeto apliquei os seguintes pontos:
-+ Semântica HTML;
-+ Pontos de acessibilidade;
-+ Responsividade;
++ ...;
++ ...;
++ ...;
 
 ## 🛠 Ferramentas utilizadas: 
 
